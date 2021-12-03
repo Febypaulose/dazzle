@@ -1,0 +1,3 @@
+productname,typeId,productprice,producttags,color,sizes,categoryId,subcategoryId,stockstatus,stockcount,productsummary,productdescriptiontitle,pdescription,designertitle,designerwebsite
+test dresst,luxury,$24.00 ,textrrrrg,Black,7,13,16,in stock,20,reyergh,ytkjtfk,<p>rtdjrdj</p>,dsgdfs,"www.google.com"""
+test ,luxury,$24.00 ,textrrrrg,Blue,7,13,16,in stock,20,reyergh,ytkjtfk,<p>rtdjrdj</p>,dsgdfs,"www.google.com"""
